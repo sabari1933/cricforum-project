@@ -1,0 +1,30 @@
+.team-body:hover{
+    transform: translate3D(0,-1px,0) scale(1.05);
+   
+  
+}
+.team-body{
+    background-color: #2F4F4F;
+    border-radius: 20px;
+    color: white;
+}
+.card-img{
+    border-radius: 50px;
+}
+/* .card-img:hover{
+    transform: translate3D(0,-1px,0) scale(1.05);
+    border-radius: 20px;
+} */
+.cricket-team{
+    background-image: linear-gradient(to right, #5f2c82, #49a09d);
+}
+.team-card{
+    /* background-image: linear-gradient(to right, #5f2c82, #49a09d); */
+    background-color: #49a09d;
+    border-radius: 50px;
+    /* padding-top: 50px; */
+}
+.team-card:hover{
+    transform: translate3D(0,-1px,0) scale(1.05);
+    border-color: #5f2c82 2px;
+}

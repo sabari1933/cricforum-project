@@ -1,0 +1,17 @@
+.table_two{
+    border: solid black;
+    /* margin-left: 100px; */
+    padding-bottom: 50px;
+}
+.table_two:hover{
+    transform: translate3D(0,-1px,0) scale(1.05);
+    border: #86dfeb 2px;
+    background-color: #2F4F4F;
+}
+.title-player{
+    font-size: 50px;
+}
+.userlist-bg{
+    text-align: center;
+    align-items: center;
+}

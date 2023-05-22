@@ -1,0 +1,16 @@
+.format-cricket{
+    /* background-color: #008B8B; */
+    background-image: linear-gradient(to right, #5f2c82, #49a09d);
+}
+.format-odi:hover{
+    /* background-color: #008B8B; */
+border-color: #008B8B;
+transition: 2.5s;
+}
+.card_body{
+    background-color: #808080;
+   border-radius: 10px;
+}
+.card_body:hover{
+    transform: translate3D(0,-1px,0) scale(1.03);
+}

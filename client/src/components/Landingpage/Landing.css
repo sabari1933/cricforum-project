@@ -1,0 +1,29 @@
+.img1{
+    height: 10vh;
+}
+
+.font-weight-bold{
+    color: white;
+}
+.navbar{
+    background-color: #055c5c;
+}
+
+.raw{
+    background: transparent!important;
+    border: none!important;
+}
+.cricket-landing{
+    background-color: #0f2027;
+}
+.card-landing:hover{
+    transform: translate3D(0,-1px,0) scale(1.05);
+    border: 1px solid#2cd9dc ;
+   
+}
+.card-landing{
+    background-color: #0f2027;
+    border: 1px solid#2cd9dc ;
+    text-align: center;
+    color: white;
+}
